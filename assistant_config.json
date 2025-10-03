@@ -1,9 +1,0 @@
-{
-    "name": "ultron",
-    "voice": "male",
-    "volume": 70,
-    "hotwords": [
-        "hey assistant",
-        "computer"
-    ]
-}
