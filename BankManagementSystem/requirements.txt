@@ -1,0 +1,6 @@
+# Bank Management System Requirements
+sqlite3
+datetime
+uuid
+json
+hashlib  # For password hashing
