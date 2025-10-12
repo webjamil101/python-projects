@@ -1,0 +1,8 @@
+# Medical Store Management System
+bcrypt
+sqlite3
+datetime
+csv
+hashlib
+os
+sys
