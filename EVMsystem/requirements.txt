@@ -1,0 +1,8 @@
+# Electronic Voting Machine System
+bcrypt
+cryptography
+hashlib
+datetime
+sqlite3
+secrets
+uuid
