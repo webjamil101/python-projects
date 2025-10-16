@@ -5,21 +5,25 @@ A complete Tic Tac Toe implementation with AI opponents, statistics tracking, an
 ## Features
 
 ### Game Modes
+
 - **Human vs Human**: Two players on the same device
 - **Human vs Computer**: Play against AI with adjustable difficulty
 - **Computer vs Computer**: Watch AI players compete
 
 ### AI Difficulty Levels
+
 - **Easy**: Random moves
 - **Medium**: Strategic moves (wins if possible, blocks opponent)
 - **Hard**: Optimal moves using minimax algorithm (3x3 board)
 
 ### Board Sizes
+
 - 3x3 (Classic Tic Tac Toe)
 - 4x4
 - 5x5
 
 ### Additional Features
+
 - Player statistics tracking
 - Leaderboard system
 - Game history
@@ -36,3 +40,4 @@ A complete Tic Tac Toe implementation with AI opponents, statistics tracking, an
 
 ```bash
 python main.py
+```
