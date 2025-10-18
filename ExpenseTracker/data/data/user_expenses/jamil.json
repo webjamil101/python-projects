@@ -1,0 +1,67 @@
+{
+  "expenses": [
+    {
+      "date": "2025-10-17",
+      "amount": 1.0,
+      "currency": "USD",
+      "category": "Food",
+      "description": "Food price",
+      "added_by": "jamil",
+      "added_at": "2025-10-17T19:26:23.142120"
+    },
+    {
+      "date": "2025-10-17",
+      "amount": 0.0,
+      "currency": "USD",
+      "category": "Bills",
+      "description": "Bills",
+      "added_by": "jamil",
+      "added_at": "2025-10-17T19:28:35.045971"
+    },
+    {
+      "date": "2025-10-17",
+      "amount": 0.0,
+      "currency": "USD",
+      "category": "Transport",
+      "description": "Transport",
+      "added_by": "jamil",
+      "added_at": "2025-10-17T19:28:50.278470"
+    },
+    {
+      "date": "2025-10-17",
+      "amount": 0.0,
+      "currency": "USD",
+      "category": "Healthcare",
+      "description": "Health care",
+      "added_by": "jamil",
+      "added_at": "2025-10-17T19:29:05.176678"
+    },
+    {
+      "date": "2025-10-17",
+      "amount": 1.0,
+      "currency": "USD",
+      "category": "Education",
+      "description": "No description",
+      "added_by": "jamil",
+      "added_at": "2025-10-17T19:29:16.751910"
+    },
+    {
+      "date": "2025-10-17",
+      "amount": 0.0,
+      "currency": "USD",
+      "category": "Business",
+      "description": "No description",
+      "added_by": "jamil",
+      "added_at": "2025-10-17T19:29:43.825639"
+    },
+    {
+      "date": "2025-10-17",
+      "amount": 0.0,
+      "currency": "USD",
+      "category": "Shopping",
+      "description": "No description",
+      "added_by": "jamil",
+      "added_at": "2025-10-17T19:29:53.595879"
+    }
+  ]
+}

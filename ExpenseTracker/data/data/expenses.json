@@ -1,0 +1,16 @@
+{
+  "expenses": [
+    {
+      "date": "2025-10-17",
+      "amount": 2.0,
+      "currency": "USD",
+      "category": "Food",
+      "description": "food price"
+    }
+  ],
+  "user_profile": {
+    "occupation": "Student",
+    "base_currency": "USD",
+    "monthly_budget": 300.0
+  }
+}
